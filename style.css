@@ -45,12 +45,12 @@
         margin: 0 auto;
         color: white;
         padding-bottom: 2rem;
-        padding-top: 2rem;
+        padding-top: 6rem;
         position: relative;
         bottom: -4rem;
         box-sizing: border-box;
         width: 95%;
-        height: 350px;
+        height: 380px;
 
     }
     main{
@@ -166,7 +166,7 @@
         text-align: center;
         box-sizing: border-box;
         width: 85%;
-        height: 330px;
+        height: 350px;
         padding-left: 2rem;
         padding-right: 2rem;
         padding-top: 0.5rem;
