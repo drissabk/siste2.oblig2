@@ -116,6 +116,11 @@
         color: white;
         text-decoration-color: none;
     }
+    a:active{
+        text-decoration: none;
+        color: white;
+        text-decoration-color: none;
+    }
 
 }
 @media screen and (min-width:600px) and  (max-width:960px) {
@@ -266,6 +271,11 @@
         text-decoration:none;
     }
     a:visited{
+        text-decoration: none;
+        color: white;
+        text-decoration-color: none;
+    }
+    a:active{
         text-decoration: none;
         color: white;
         text-decoration-color: none;
