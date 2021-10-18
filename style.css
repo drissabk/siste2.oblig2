@@ -111,16 +111,13 @@
         text-align: center;
         text-decoration:none;
     }
-    a:visited{
+    a{
         text-decoration: none;
         color: white;
         text-decoration-color: none;
+        text-decoration: underline;
     }
-    a:active{
-        text-decoration: none;
-        color: white;
-        text-decoration-color: none;
-    }
+   
 
 }
 @media screen and (min-width:600px) and  (max-width:960px) {
@@ -270,16 +267,13 @@
         text-align: center;
         text-decoration:none;
     }
-    a:visited{
+    a{
         text-decoration: none;
         color: white;
         text-decoration-color: none;
+        text-decoration: underline;
     }
-    a:active{
-        text-decoration: none;
-        color: white;
-        text-decoration-color: none;
-    }
+   
 }    
 @media screen and (min-width:960px){
    
@@ -431,14 +425,11 @@
         text-align: center;
         text-decoration:none;
     }
-    a:visited{
+    a{
         text-decoration: none;
         color: white;
         text-decoration-color: none;
+        text-decoration: underline;
     }
-    a:active{
-        text-decoration: none;
-        color: white;
-        text-decoration-color: none;
-    }
+    
 }    
