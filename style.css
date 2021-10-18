@@ -426,5 +426,9 @@
         color: white;
         text-decoration-color: none;
     }
-   
+    a:active{
+        text-decoration: none;
+        color: white;
+        text-decoration-color: none;
+    }
 }    
